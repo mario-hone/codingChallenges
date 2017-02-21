@@ -7,3 +7,11 @@
 #
 # For example: if the input string is "Hello World and Coders"
 # then your program should return the string sredoC dna dlroW olleH.
+
+def FirstReverse(str):
+
+    # code goes here
+    return str
+
+# keep this function call here
+print FirstReverse(raw_input())
