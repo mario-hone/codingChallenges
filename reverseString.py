@@ -10,6 +10,9 @@
 
 def FirstReverse(str):
 
+    for char in reversed(str):
+        print char
+
     # code goes here
     return str
 
