@@ -1,5 +1,3 @@
-
-
 # Mario Jimenez
 
 # Start with any integer between 00 and 99, inclusive, written as two digits (use a leading zero if the number is less than 10).
@@ -8,11 +6,19 @@
 
 def cycleLength(n):
 
-    digits = [int(digit) for digit in str(n)]
+    #take number and turn it into a list
 
-    
+    #loop until original list and new list are the same
+
+        #add the two individual elements
+
+        # get the rightmost value of new number
+        # take the new numbers rightmost value and combine it into a list with
+        # the previous' list value
+
+        # if the newly created list compares to the original list, end loop
+
 
     return 1
 
 
-cycleLength(10)
