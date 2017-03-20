@@ -9,7 +9,7 @@ def findMinNumber(i):
     if i == 2:
         return "min(int, int)"
     else:
-        print("min(int, {})".format(findMinNumber(i - 1)))
+        return "min(int, {})".format(findMinNumber(i - 1))
 
 
-findMinNumber(n)
+print(findMinNumber(n))
