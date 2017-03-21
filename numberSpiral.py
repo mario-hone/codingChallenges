@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/contests/projecteuler/challenges/euler028
 
 tests = input("Enter number of tests\n")
 

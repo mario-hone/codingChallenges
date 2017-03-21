@@ -1,6 +1,3 @@
-#
-# Mario Jimenez
-#
 # https://www.hackerrank.com/challenges/beautiful-binary-string
 
 # Get in binary string

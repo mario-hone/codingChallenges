@@ -1,5 +1,7 @@
 #!/bin/python3
 
+# https://www.hackerrank.com/contests/w30/challenges/find-the-minimum-number
+
 import sys
 
 n = int(input().strip())
