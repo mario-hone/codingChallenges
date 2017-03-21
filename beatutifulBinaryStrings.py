@@ -1,7 +1,7 @@
 #
 # Mario Jimenez
 #
-
+# https://www.hackerrank.com/challenges/beautiful-binary-string
 
 # Get in binary string
 # for each 010, change the last 0 to a 1.
